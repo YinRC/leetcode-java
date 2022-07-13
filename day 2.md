@@ -7,9 +7,6 @@
 如果两颗行星大小相同，则两颗行星都会爆炸。两颗移动方向相同的行星，永远不会发生碰撞。
 
 来源：力扣（LeetCode）
-链接：https://leetcode.cn/problems/asteroid-collision
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
-
 ```java
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
